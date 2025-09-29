@@ -28,8 +28,10 @@
 
 ---
 
-## 🐍 Snake Graph
-![snake gif](https://github.com/helenaleen/helenaleen/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Snake Animation
+![Snake animation](https://github.com/helenaleen/helenaleen/blob/output/github-contribution-grid-snake.svg)
+
+![Snake gif](https://github.com/helenaleen/helenaleen/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
