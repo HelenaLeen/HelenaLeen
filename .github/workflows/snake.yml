@@ -1,27 +1,26 @@
-name: Github Snake
+name: Snake Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate Snake Graph
-        uses: paulhatch/gh-snake@main
+        uses: platane/snk@v0.8.0
         with:
           path: output/github-contribution-grid-snake.svg
 
-      - name: Commit file
+      - name: Commit changes
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add .
-          git commit -m "update contribution snake"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update snake graph"
           git push
-
