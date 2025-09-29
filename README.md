@@ -31,9 +31,7 @@
 ### 🐍 Snake Animation
 ![Snake animation](https://github.com/helenaleen/helenaleen/blob/output/github-contribution-grid-snake.svg)
 
-![Snake gif](https://github.com/helenaleen/helenaleen/blob/output/github-contribution-grid-snake.gif)
 
----
 
 ## 🌍 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helena-leen-6a936645/)
