@@ -12,10 +12,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake
-        uses: alexanderepstein/Snake-README-Action@v2.0.0
+      - name: Generate Snake Graph
+        uses: paulhatch/gh-snake@main
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          path: output/github-contribution-grid-snake.svg
 
       - name: Commit file
         run: |
@@ -24,3 +24,4 @@ jobs:
           git add .
           git commit -m "update contribution snake"
           git push
+
