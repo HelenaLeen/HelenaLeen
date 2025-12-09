@@ -1,10 +1,10 @@
 <!-- Banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Helena%20Leen&fontSize=40&fontAlignY=35&desc=Analista%20Sênior%20|%20Full%20Stack%20Júnior&descAlignY=55&descAlign=50)
 
-# 👩‍💻 Sobre mim
-✨ **Analista de Sistemas Sênior | Programadora Full Stack Júnior**  
-💡 Apaixonada por tecnologia e inovação.  
-🚀 Estudando e desenvolvendo projetos para evoluir como dev full stack.  
+# Escritora brasileira vivendo na Terra de Camões 
+📚 Editor | Creative Writing Mentor 
+💻 Full Stack Developer & Systems Analyst 
+🧩 Odoo Functional Consultant | AI & User-Oriented Solutions
 
 ---
 
