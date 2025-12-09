@@ -1,9 +1,11 @@
 <!-- Banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Helena%20Leen&fontSize=40&fontAlignY=35&desc=Analista%20Sênior%20|%20Full%20Stack%20Júnior&descAlignY=55&descAlign=50)
 
-# Escritora brasileira vivendo na Terra de Camões 
-📚 Editor | Creative Writing Mentor 
-💻 Full Stack Developer & Systems Analyst 
+#✨ Programadora Full Stack Júnior | Especialista em Soluções Digitais
+
+📱 Desenvolvo aplicações móveis e sistemas web focados em facilitar a vida das pessoas e otimizar rotinas.
+💼 Crio soluções inteligentes para diferentes áreas, com um diferencial especial em projetos voltados para autores, editoras e criadores de conteúdo.
+🚀 Apaixonada por tecnologia, criatividade e inovação — sempre estudando, evoluindo e construindo ferramentas que fazem a diferença. 
 🧩 Odoo Functional Consultant | AI & User-Oriented Solutions
 
 ---
