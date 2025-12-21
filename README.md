@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF6BA3&center=true&vCenter=true&width=435&lines=Desenvolvedora+Full+Stack+Criadora+de+Solu%C3%A7%C3%B5es+Digitais;Especialista+em+Odoo;Apaixonada+por+Design+%26+C%C3%B3digo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF6BA3&center=true&vCenter=true&width=435&lines= Desenvolvedora+Full+Stack+Criadora+de+Solu%C3%A7%C3%B5es+Digitais;Especialista+em+Odoo;Apaixonada+por+Design+%26+C%C3%B3digo" alt="Typing SVG" />
 </a>
 
 <p align="center">
